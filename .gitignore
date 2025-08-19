@@ -3,6 +3,11 @@
 env/
 venv/
 __pycache__/
+Scripts/
+lib\site-packages/
+share/
+include/
+pyvenv.cfg
 
 # Archivos específicos de Python
 *.pyc
