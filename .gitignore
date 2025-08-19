@@ -5,6 +5,7 @@ venv/
 __pycache__/
 Scripts/
 lib\site-packages/
+Lib/
 share/
 include/
 pyvenv.cfg
