@@ -9,6 +9,7 @@ Lib/
 share/
 include/
 pyvenv.cfg
+Data_Sci_2.code-workspace
 
 # Archivos específicos de Python
 *.pyc
