@@ -1,0 +1,16 @@
+# Directorios de entorno virtual
+.env
+env/
+venv/
+__pycache__/
+
+# Archivos específicos de Python
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Ignorar archivos del sistema
+.DS_Store
